@@ -70,6 +70,8 @@ using the Tensorflow Object Detection API, create a new question on
 
 ### August 11, 2017
 
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
+
 We have released an update to the [Android Detect
 demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
 which will now run models trained using the Tensorflow Object
